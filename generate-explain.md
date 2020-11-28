@@ -9,3 +9,6 @@
 - then it gets the first number column with another function by sending the number index in row #1 
 - then it compare it to columns arrays and if it find match this will be the coulmn of the first number
 - then it generate the second number and compare it to the first number if they are the same it generate another number
+- then it do the same proccess in the first number to the second number and the third number
+
+# i hope you enjoy understanding how the random generate works :) 
